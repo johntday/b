@@ -11,7 +11,7 @@ import { CustomThingChildren } from './with-children';
   entryComponents: [CustomThing, CustomThingChildren],
   imports: [
     BrowserModule,
-    BuilderModule.forRoot('1f3bf1d766354f32ba70dde440fcef97'),
+    BuilderModule.forRoot('1f6d76dc2a2146d2b6ab914506b38e64'),
     RouterModule.forRoot([
       {
         path: '**',
